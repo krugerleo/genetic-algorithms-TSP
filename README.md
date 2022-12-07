@@ -1,6 +1,6 @@
 # genetic-algorithms-TSP
 
-## Drecição
+## Descrição
 
 ## instalação
 On Unix or MacOS, using the bash shell: 
